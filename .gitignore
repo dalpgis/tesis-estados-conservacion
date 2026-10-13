@@ -1,0 +1,11 @@
+# Datos pesados o de trabajo: se quedan en el disco local
+*.gdb/
+*.gdb
+*.tif
+*.tiff
+*.aprx
+*.lyrx
+*.zip
+*.xlsx
+Thumbs.db
+.DS_Store
