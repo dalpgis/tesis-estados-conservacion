@@ -21,4 +21,4 @@ Se necesita conexión a Internet (ArcGIS Maps SDK for JavaScript y Chart.js se c
 
 ## Autor
 
-[Nombre del autor] · DALPGIS
+Daniel A León Pacheco · Museo de Ciencas Naturales UCLA
